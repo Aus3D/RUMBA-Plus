@@ -1,10 +1,9 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [RUMBA_plus.PrjPCB]
-   Generated File[Pick Place for RUMBA_plus.csv]
 
 
-Files Generated   : 1
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 5:48:02 PM On 4/01/2018
+Finished Output Generation At 8:55:59 PM On 4/01/2018

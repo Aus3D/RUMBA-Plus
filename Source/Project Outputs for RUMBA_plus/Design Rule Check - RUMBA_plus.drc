@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Git\RUMBA-Plus\Source\RUMBA_plus.PcbDoc
 Date     : 4/01/2018
-Time     : 5:44:40 PM
+Time     : 6:39:57 PM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -16,7 +16,11 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Pad Free-2(32.855mm,52.128mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net VIN1 Between Track (77.5mm,67.902mm)(92.815mm,67.902mm) on Bottom Layer And Via (93.4mm,27.4mm) from Top Layer to Bottom Layer 
    Violation between Un-Routed Net Constraint: Track (123.2mm,67.902mm)(137.697mm,67.902mm) on Bottom Layer 
-Rule Violations :3
+   Violation between Un-Routed Net Constraint: Net VIN1 Between Track (71.171mm,2.344mm)(71.171mm,15.044mm) on Bottom Layer And Track (70.282mm,17.584mm)(71.171mm,17.584mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VIN1 Between Track (87.122mm,17.635mm)(88.011mm,17.635mm) on Bottom Layer And Track (88.316mm,2.25mm)(88.316mm,15.095mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VIN1 Between Track (78.613mm,17.584mm)(79.502mm,17.584mm) on Bottom Layer And Track (79.68mm,2.497mm)(79.68mm,15.044mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +12V Between Track (71.171mm,20.124mm)(88.265mm,20.124mm) on Bottom Layer And Track (88.316mm,20.175mm)(89.6mm,20.175mm) on Top Layer 
+Rule Violations :7
 
 Processing Rule : Width Constraint (Min=0.2mm) (Max=3mm) (Preferred=0.2mm) (All)
 Rule Violations :0
@@ -40,11 +44,18 @@ Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-Rule Violations :0
+   Violation between Net Antennae: Track (71.171mm,2.344mm)(71.171mm,15.044mm) on Bottom Layer 
+   Violation between Net Antennae: Track (79.68mm,2.497mm)(79.68mm,15.044mm) on Bottom Layer 
+   Violation between Net Antennae: Track (70.282mm,17.584mm)(71.171mm,17.584mm) on Bottom Layer 
+   Violation between Net Antennae: Track (78.613mm,17.584mm)(79.502mm,17.584mm) on Bottom Layer 
+   Violation between Net Antennae: Track (87.122mm,17.635mm)(88.011mm,17.635mm) on Bottom Layer 
+   Violation between Net Antennae: Track (71.171mm,20.124mm)(88.265mm,20.124mm) on Bottom Layer 
+   Violation between Net Antennae: Track (88.316mm,2.25mm)(88.316mm,15.095mm) on Bottom Layer 
+Rule Violations :7
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 3
+Violations Detected : 14
 Time Elapsed        : 00:00:05
