@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\Git\RUMBA-Plus\Source\RUMBA_plus.PcbDoc
-Date     : 7/01/2018
-Time     : 10:56:08 PM
+PCB File : G:\Git\RUMBA-Plus\Source\RUMBA_plus.PcbDoc
+Date     : 3/04/2018
+Time     : 9:20:48 PM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -13,10 +13,11 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net VIN1 Between Track (77.5mm,67.902mm)(92.815mm,67.902mm) on Bottom Layer And Track (123.2mm,67.902mm)(137.697mm,67.902mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Track (137.797mm,67.902mm)(138.491mm,67.208mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Pad Free-2(32.855mm,52.128mm) on Multi-Layer 
-Rule Violations :3
+   Violation between Un-Routed Net Constraint: Pad Free-2(27.855mm,52.128mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VIN1 Between Track (72.5mm,67.902mm)(87.815mm,67.902mm) on Bottom Layer And Track (118.2mm,67.902mm)(132.697mm,67.902mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Track (132.797mm,67.902mm)(133.491mm,67.208mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +12V Between Pad R56-1(86.8mm,23.85mm) on Top Layer And Pad L4-2(93.625mm,11.8mm) on Top Layer 
+Rule Violations :4
 
 Processing Rule : Width Constraint (Min=0.2mm) (Max=3mm) (Preferred=0.2mm) (All)
 Rule Violations :0
@@ -46,5 +47,5 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 3
-Time Elapsed        : 00:00:05
+Violations Detected : 4
+Time Elapsed        : 00:00:04

@@ -86,15 +86,15 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D23
+    D38
     D49
     D50
     D51
     D52
     D53
+    D54
     D55
     D56
-    D59
     D61
     D62
     D63
@@ -119,8 +119,8 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D49
     D50
+    D52
     D56
     D75
     D76
@@ -283,8 +283,8 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D49
-    D118
+    D52
+    D133
     D144
     D145
     D146
@@ -330,6 +330,6 @@ Generating : Mechanical 2
 
 
 Used DCodes :
-    D49
+    D52
 *************************************************************
 
