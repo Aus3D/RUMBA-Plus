@@ -1,4 +1,7 @@
 # RUMBA+
+![version](https://img.shields.io/badge/version-1.4.2A-blue)
+[![license](https://img.shields.io/badge/license-GPLv2-green)](https://github.com/Aus3D/RUMBA-Plus/blob/master/gpl-2.0.txt)
+[![donate](https://img.shields.io/badge/donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9TH49ER5JUZBW&source=url)
 
 RUMBA+ is an updated version of the RUMBA 3D Printer control board, originally developed by [RepRapDiscount](http://www.reprapdiscount.com/). 
 
