@@ -157,82 +157,90 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus-RoundHoles.TXT
+DocumentPath=Project Outputs for RUMBA_plus\Design Rule Check - RUMBA_plus.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus-SlotHoles.TXT
+DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.DRR
+DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.EXTREP
+DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.EXTREP
+DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBL
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBO
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBP
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBS
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GM2
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTL
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTO
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTP
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTS
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.LDP
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.REP
+DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.REP
+DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.RUL
+DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Outputs\RUMBA_plus_v1_4_2A_Gerbers\RUMBA_plus.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for RUMBA_plus\RUMBA_plus.RUL
 DItemRevisionGUID=
 
 [Parameter1]
+Name=ProjectStringVersion
+Value=v1.4.2A
+
+[Parameter2]
 Name=ProjectOutputVersion
 Value=v1_4_2A
 
