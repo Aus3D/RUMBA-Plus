@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-G:\Git\RUMBA-Plus\Source\Project Outputs for RUMBA_plus\Pick Place for RUMBA_plus.csv
+G:\Git\RUMBA-Plus\Source\Outputs\RUMBA_plus_v1_4_2A_PickPlace.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       27/05/19
-Time:       19:48
-Revision:   bb006bcb106649a55c00f01d6e579e41c7b4c984
+Date:       08/07/20
+Time:       11:46
+Revision:   1b79476791228894a444ce81a53099a3ce6f41f0
 Variant:    No variations
 Units used: mm
 
@@ -55,6 +55,7 @@ Units used: mm
 "D12","","TopLayer","DO-214AC","45.5000","13.0000","360","DIODE GEN PURP 100V 1.5A SMA"
 "D11","","TopLayer","DO-214AC","79.0000","11.5000","360","DIODE GEN PURP 100V 1.5A SMA"
 "D10","","TopLayer","DO-214AC","70.2500","11.5000","360","DIODE GEN PURP 100V 1.5A SMA"
+"OS logo","Logo","TopLayer","OS_LOGO_TOP","-10.0000","-10.0000","360",""
 "FAN1","","TopLayer","TERM2_3.5MM","78.8480","6.2052","180","TERM BLK 2POS SIDE ENT 3.5MM PCB"
 "R55","","TopLayer","RES_1608-0603","79.2010","27.6428","90","RES SMD 1K OHM 1% 1/10W 0603"
 "Q5","","TopLayer","LFPACK","78.9216","19.9334","180","MOSFET N-CH 40V 33A LFPAK"
@@ -83,6 +84,7 @@ Units used: mm
 "PS_ON","Header 2","TopLayer","HDR1X2","20.2608","65.9040","360","Header, 2-Pin"
 "ISP2","Header 3X2","TopLayer","HDR2X3","30.9664","21.6992","360","Header, 3-Pin, Dual row"
 "C29","","TopLayer","Cap_1608-0603","7.5264","34.4500","360","CAP CER 1UF 16V X7R 0603"
+"Y","A4988BREAKOUT","TopLayer","A4988BREAKOUT","66.1075","53.2862","270",""
 "C4","","TopLayer","CAP_1608-0603","32.0206","39.3316","180","CAP CER 0.1UF 50V X7R 0603"
 "C5","","TopLayer","CAP_1608-0603","13.9000","48.5000","90","CAP CER 0.1UF 50V X7R 0603"
 "C6","","TopLayer","CAP_1608-0603","33.3000","46.1000","270","CAP CER 0.1UF 50V X7R 0603"
@@ -111,8 +113,10 @@ Units used: mm
 "HE0","","TopLayer","TERM2_3.5MM","45.2438","6.2052","180","TERM BLK 2POS SIDE ENT 3.5MM PCB"
 "E0_MOT","","TopLayer","TERM4_3.5MM","97.0281","71.2440","360","TERM BLK 4POS SIDE ENT 3.5MM PCB"
 "E0_MS","SW DIP-3","TopLayer","DIPSW_SO6","94.4180","50.3940","90","SWITCH SLIDE DIP SPST 25MA 24V"
+"E0","A4988BREAKOUT","TopLayer","A4988BREAKOUT","96.6241","53.2862","270",""
 "E1_MOT","","TopLayer","TERM4_3.5MM","112.2606","71.2440","360","TERM BLK 4POS SIDE ENT 3.5MM PCB"
 "E1_MS","SW DIP-3","TopLayer","DIPSW_SO6","109.6580","50.3940","90","SWITCH SLIDE DIP SPST 25MA 24V"
+"E1","A4988BREAKOUT","TopLayer","A4988BREAKOUT","111.8825","53.2862","270",""
 "U1","ATMEGA2560","TopLayer","TQFP100N","23.5100","47.8170","180","IC MCU 8BIT 256KB FLASH 100TQFP"
 "L1","","TopLayer","RES_2012-0805","8.3000","10.0000","360","FERRITE BEAD 220 OHM 0805 1LN"
 "EXP1","Header 5X2","TopLayer","HDR2X5_EXP_INER_ONLY\","16.4508","71.1740","180","Header, 5-Pin, Dual row"
@@ -165,6 +169,7 @@ Units used: mm
 "Z-","Header 3","TopLayer","HDR1X3","4.0716","55.2780","180","Header, 3-Pin"
 "X_MOT","","TopLayer","TERM4_3.5MM","51.3308","71.2440","360","TERM BLK 4POS SIDE ENT 3.5MM PCB"
 "X_MS","SW DIP-3","TopLayer","DIPSW_SO6","48.7060","50.3940","90","SWITCH SLIDE DIP SPST 25MA 24V"
+"X","A4988BREAKOUT","TopLayer","A4988BREAKOUT","50.8492","53.2862","270",""
 "Y1","16MHz","TopLayer","3525_SMD_CRYSTAL","25.7000","59.1000","360","CRYSTAL 16.0000MHZ 18PF SMD"
 "Y2","16MHz","TopLayer","3525_SMD_CRYSTAL","25.0000","3.0000","360","CRYSTAL 16.0000MHZ 18PF SMD"
 "Y+","Header 3","TopLayer","HDR1X3","4.0716","57.8180","180","Header, 3-Pin"
@@ -175,11 +180,16 @@ Units used: mm
 "X-","Header 3","TopLayer","HDR1X3","4.0716","65.4380","180","Header, 3-Pin"
 "Z_MOT","","TopLayer","TERM4_3.5MM","81.7957","71.2440","360","TERM BLK 4POS SIDE ENT 3.5MM PCB"
 "Z_MS","SW DIP-3","TopLayer","DIPSW_SO6","79.1860","50.3940","90","SWITCH SLIDE DIP SPST 25MA 24V"
+"Z","A4988BREAKOUT","TopLayer","A4988BREAKOUT","81.3658","53.2862","270",""
+"sc1","Sraf","TopLayer","SRAF_3MM_-_RUPA_3.2","131.2748","3.6144","45",""
+"sc2","Sraf","TopLayer","SRAF_3MM_-_RUPA_3.2","3.7726","71.3248","45",""
+"sc4","Sraf","TopLayer","SRAF_3MM_-_RUPA_3.5","131.0208","39.2252","45",""
 "R43","","TopLayer","RES_1608-0603","7.5264","35.9740","360","RES SMD 4.7K OHM 1% 1/10W 0603"
 "EXP2","Header 5X2","TopLayer","HDR2X5_EXP_INER_ONLY\","34.6626","71.1740","180","Header, 5-Pin, Dual row"
 "R32","","TopLayer","RES_1608-0603","122.3000","36.2000","270","RES SMD 100K OHM 1% 1/10W 0603"
 "E2_MOT","","TopLayer","TERM4_3.5MM","127.4930","71.2440","360","TERM BLK 4POS SIDE ENT 3.5MM PCB"
 "E2_MS","SW DIP-3","TopLayer","DIPSW_SO6","124.9980","50.3936","90","SWITCH SLIDE DIP SPST 25MA 24V"
+"E2","A4988BREAKOUT","TopLayer","A4988BREAKOUT","127.1408","53.2862","270",""
 "C30","","TopLayer","CAP_EL_PANASONIC","128.5222","58.8099","360","CAP ALUM 100UF 20% 35V SMD"
 "R44","","TopLayer","RES_1608-0603","128.5466","50.1822","270","RES SMD 100K OHM 1% 1/10W 0603"
 "R45","","TopLayer","RES_1608-0603","128.7518","46.5850","360","RES SMD 10K OHM 1% 1/10W 0603"
@@ -194,6 +204,7 @@ Units used: mm
 "F1","","TopLayer","FUSEHOLDER_-_BK-6013_-_MINI_ATC_ATO_BLADE_15A","122.0800","16.0040","360","FUSE HOLDER BLADE PCB"
 "J2","","TopLayer","Micro-USB_B_Molex_105017-0001","3.1750","14.1000","270","CONN RCPT USB2.0 MICRO B SMD R/A"
 "EXP3","Header 7X2","TopLayer","HDR2X7","24.6418","27.6428","180","Header, 7-Pin, Dual row"
+"sc3","Sraf","TopLayer","Sraf_3mm_-_rupa_3.5","3.6652","3.8430","45",""
 "VFA0_sel","Header 3","TopLayer","HDR1X3","74.6798","17.5844","90","Header, 3-Pin"
 "VFA1_sel","Header 3","TopLayer","HDR1X3","83.3158","17.6352","90","Header, 3-Pin"
 "VHE2_sel","Header 3","TopLayer","HDR1X3","66.1708","17.5844","90","Header, 3-Pin"
@@ -204,6 +215,6 @@ Units used: mm
 "ENC_2","Header 4","TopLayer","HDR1X4","5.3420","45.2450","180","Header, 4-Pin"
 "ENC_3","Header 4","TopLayer","HDR1X4","5.3420","42.7050","180","Header, 4-Pin"
 "ENC_4","Header 4","TopLayer","HDR1X4","5.3420","40.1650","180","Header, 4-Pin"
-"MAIN-PWR","Screw Terminal 5mm 2-Way","TopLayer","TERM2_5MM","102.1010","6.0782","360","Screw Terminal 5mm 2-Way"
-"HB-PWR","Screw Terminal 5mm 2-Way","TopLayer","TERM2_5MM","112.0832","6.0782","360","Screw Terminal 5mm 2-Way"
+"MAIN-PWR","","TopLayer","TERM2_5MM","102.1010","6.0782","360","TERM BLK 2POS SIDE ENTRY 5MM PCB"
+"HB-PWR","","TopLayer","TERM2_5MM","112.0832","6.0782","360","TERM BLK 2POS SIDE ENTRY 5MM PCB"
 "D7","","TopLayer","DO-214AC","131.7070","16.9000","270","DIODE GEN PURP 100V 1.5A SMA"
