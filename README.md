@@ -8,9 +8,18 @@ RUMBA+ boards are for sale in the [Aus3D shop](http://aus3d.com.au/rumba-plus). 
 
 In keeping with the original RUMBA design, RUMBA+ is fully open source.
 
-## Image
-![RUMBA+ PCB Preview](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Images/boardPhoto.jpg "RUMBA+ PCB Preview")
-![RUMBA+ Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Images/pinOut.png "RUMBA+ Pinout")
+## Images
+### Overview
+![RUMBA+ Overview](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Resources/Images/OverviewGraphic.png "RUMBA+ Overview")
+### Photo
+![RUMBA+ Photo](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Resources/Images/BoardPhoto.jpg "RUMBA+ Photo")
+### Schematic
+![RUMBA+ Schematic](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Resources/Images/Schematic.png "RUMBA+ Schematic")
+### Pinout
+![RUMBA+ Pinout](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Resources/Images/PinoutDrawing.png "RUMBA+ Pinout")
+### Dimensions
+![RUMBA+ Dimensions](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Resources/Images/DimensionDrawing.png "RUMBA+ Dimensions")
+
 ## Changes From Original RUMBA
 ### Input Voltage Compatibility
 While the original RUMBA board claims compatibility with power supplies ranging from 12-35V, it uses PTC resettable fuses that are rated for 16V maximum. This means that the board requires modification to be used at voltages above this - though some manufacturers or suppliers may have modified the fuses or shipped boards without them to suit higher voltages.
@@ -40,6 +49,3 @@ In order to be able to host the new Aus3D Magnetic Encoder modules, four I2C hea
 
 ## License
 RUMBA+ is fully open source, and may be freely modified or changed by anyone, provided they maintain the license it is released under. The design is free to use for any purpose, including commercial uses. RUMBA+ maintains the GPLv2 license of the original RUMBA board. For more information on this license, please see the included license file.
-
-## Design Images
-![RUMBA+ Schematic](https://raw.githubusercontent.com/Aus3D/RUMBA-Plus/master/Schematic.png "RUMBA+ Schematic")
